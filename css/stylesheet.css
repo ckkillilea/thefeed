@@ -22,7 +22,7 @@ header {
 .friends {
     margin-left: 10px;
     margin-right: 250px;
-    background-color: pink;
+    background-color: rgb(240, 131, 182);
     padding: 10px;
     color: black;
 }
@@ -49,13 +49,15 @@ h4 {
     padding-right: 15%;
     padding-top: 0%;
     border: 0cap;
-    margin-left: 5%;
-    margin-right: 5%;
+    font-size: 30px;
+    margin-left: -80px;
+    width: 1000px;
 }
 p {
     text-align: right;
     font-size: 18px;
     margin-right: 25px;
+    font-weight: 200;
 }
 
 img {
@@ -102,7 +104,7 @@ a:active {
     top: 0;
     bottom: 0;
     left: 50%;
-    margin-top: -500px;
+    margin-top: -549px;
     margin-left: -3px;
     margin-bottom: 60px;
 }
@@ -165,11 +167,14 @@ a:active {
 a {
     text-decoration: none;
 }
+h6 {
+    font-size: 20px;
+}
 footer {
     background-color:black;
     color: white;
     font-family: 'Cedarville Cursive', cursive;
-    font-size: 200px;
+    font-size: xx-large;
     padding: 10px;
     margin: auto;
 }
